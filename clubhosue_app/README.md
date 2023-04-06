@@ -1,4 +1,4 @@
-# quiz_app
+# clubhouse_app
 
 A new Flutter project.
 
